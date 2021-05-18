@@ -1,4 +1,4 @@
-# Oracle on Windows Plugin
+## Oracle on Windows Plugin
 
 ## What Does a Delphix Plugin Do?
 
