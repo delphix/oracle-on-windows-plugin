@@ -1,19 +1,14 @@
 # created by virtualenv automatically
-*.dockerignore
 *.html
 *.pyc
 *.tmp
 *.unsaved
 *CodeCoverage
-*Dockerfile
 *ModuleWiseCoverage
 *assets/
 *build/
 *coverage*
-*docker-compose.yml
-*generated*
 *idea*
-*node_modules*
 *venv/
 .DS_Store
 .dvp-gen-output/
